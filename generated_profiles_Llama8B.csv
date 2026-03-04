@@ -1,0 +1,1712 @@
+email_id,generated_profile
+769,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""interests"": [""weight loss"", ""sales""],
+      ""financial_motivations"": ""earning $2500.00 per week"",
+      ""business_opportunities"": ""reselling a weight loss patch""
+    },
+    ""inferred_targeting_signals"": {
+      ""industry"": ""health and wellness"",
+      ""experience_level"": ""entrepreneurial and sales-oriented""
+    }
+  }
+}"
+747,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""interests"": ""online sales and growth"",
+      ""financial_motivations"": ""free offers and risk-free opportunities""
+    },
+    ""inferred"": {
+      ""industry"": ""business or marketing"",
+      ""experience_level"": ""likely an entrepreneur or small business owner""
+    }
+  }
+}"
+805,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""financial_motivations"": ""interested in making an additional income"",
+      ""business_opportunities"": ""looking for a real program that produces large revenues""
+    },
+    ""inferred_targeting_signals"": {
+      ""interests"": ""entrepreneurship, business, finance, making money"",
+      ""experience_level"": ""likely has some experience in business or finance"",
+      ""industry"": ""business, finance, entrepreneurship"",
+      ""financial_status"": ""likely has a middle to high income, but seeking additional income""
+    }
+  }
+}"
+743,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""industry"": ""unknown""
+    },
+    ""inferred"": {
+      ""interests"": ""business and professional recognition"",
+      ""financial motivations"": ""potential benefits from being listed on the who's who CD-ROM"",
+      ""health concerns"": ""none mentioned"",
+      ""experience level"": ""highly respected professional in their field of expertise"",
+      ""attributes"": {
+        ""likely a professional or business owner"",
+        ""has an online presence or is referred by existing members""
+      }
+    }
+  }
+}"
+755,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""location"": ""Southern California""
+    },
+    ""inferred"": {
+      ""interests"": [""auto insurance"", ""saving money""],
+      ""financial motivations"": [""reducing insurance costs""],
+      ""experience level"": ""likely a home mechanic or car owner""
+    }
+  }
+}"
+758,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""financial_motivations"": true
+    },
+    ""inferred"": {
+      ""financial_motivations"": true,
+      ""interests"": ""financial freedom"",
+      ""experience_level"": ""likely entrepreneurial or interested in side hustles"",
+      ""industry"": ""interested in real estate or financial services""
+    }
+  }
+}"
+815,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [""family history"", ""genealogy"", ""ancestors""],
+    ""financial_motivations"": [""desire for knowledge"", ""curiosity""],
+    ""inferred_characteristics"": {
+      ""age_group"": ""adult"",
+      ""income_level"": ""middle_to_upper"",
+      ""education_level"": ""high_school_or_higher""
+    },
+    ""targeted_signals"": {
+      ""marital_status"": ""married_or_separated"",
+      ""family_status"": ""with_children""
+    },
+    ""explicit_information"": {
+      ""nationality"": ""all nationalities""
+    },
+    ""inferred_industry"": [""genealogy"", ""family_history""],
+    ""experience_level"": ""general_interest""
+  }
+}"
+729,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_info"": {
+      ""financial_motivation"": ""improve present financial situation"",
+      ""earnings_goal"": ""several thousand dollars per month""
+    },
+    ""inferred_targeting_signals"": {
+      ""industry"": ""entrepreneurship"",
+      ""experience_level"": ""serious minded entrepreneurs"",
+      ""interests"": ""home-based business opportunity"",
+      ""financial_motivations"": ""desire to change the quality of life"",
+      ""business_opportunities"": ""proven turn-key system"",
+      ""health_concerns"": ""none explicitly stated""
+    }
+  }
+}"
+756,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_info"": {
+      ""interests"": [""government marketplace"", ""sales professionals"", ""business opportunities""],
+      ""industry"": [""government contracting"", ""sales""]
+    },
+    ""inferred_targeting_signals"": {
+      ""financial_motivations"": [""cost savings"", ""business growth""],
+      ""experience_level"": [""established professionals"", ""decision-makers""],
+      ""job_role"": [""executive"", ""manager"", ""sales professional""],
+      ""company_size"": [""large"", ""enterprise""]
+    }
+  }
+}"
+813,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""financial_motivations"": ""retirement planning""
+    },
+    ""inferred_targeting_signals"": {
+      ""interests"": ""investing in energy sector"",
+      ""industry"": ""energy"",
+      ""experience_level"": ""general public"",
+      ""financial_goals"": ""long-term savings and income generation""
+    }
+  }
+}"
+751,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [""gambling"", ""travel"", ""luxury""],
+    ""financial_motivations"": [""potential to win a free vacation""],
+    ""business_opportunities"": [""none explicitly stated""],
+    ""health_concerns"": [""none explicitly stated""],
+    ""industry"": [""tourism"", ""entertainment""],
+    ""experience_level"": [""inferred to be a leisure-seeker, potentially middle to upper-class""]
+  }
+}"
+767,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_info"": {
+      ""geographic_location"": ""Canada/USA""
+    },
+    ""inferred_targeting_signals"": {
+      ""interests"": [""free internet search engine service"", ""web browsing""],
+      ""financial_motivations"": ""none explicitly stated"",
+      ""business_opportunities"": ""none explicitly stated"",
+      ""health_concerns"": ""none explicitly stated"",
+      ""industry"": ""online services"",
+      ""experience_level"": ""general public""
+    }
+  }
+}"
+740,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_info"": {
+      ""financial_motivation"": ""increasing sales without spending a fortune on advertising"",
+      ""business_opportunity"": ""finding pre-qualified sales leads""
+    },
+    ""inferred_targeting_signals"": {
+      ""industry"": ""sales, marketing, and business development"",
+      ""experience_level"": ""entrepreneur or business owner"",
+      ""interests"": ""online sales leads, lead generation, and business growth""
+    }
+  }
+}"
+765,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""has_uncollected_judicial_judgment"": true
+    },
+    ""inferred_targeting_signals"": {
+      ""likely_business_owner"": true,
+      ""financial_motivations"": {
+        ""looking_to_collect_unpaid_judgments"": true
+      },
+      ""industry"": {
+        ""likely_business_services"": true
+      },
+      ""experience_level"": {
+        ""likely_established_business"": true
+      }
+    }
+  }
+}"
+734,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""financial_motivations"": ""free web sites with no charge, no commitment, and no problem""
+    },
+    ""inferred"": {
+      ""interests"": ""internet marketing, opportunity seeking, web development, and online business"",
+      ""experience_level"": ""likely intermediate to advanced, as the email assumes some level of familiarity with web sites and online business""
+    }
+  }
+}"
+736,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""interested_in_discounts"": true,
+      ""potential_consumer"": true
+    },
+    ""inferred"": {
+      ""financial_motivations"": ""cost savings"",
+      ""industry"": ""general consumer"",
+      ""experience_level"": ""individual or small business owner""
+    }
+  }
+}"
+772,"{
+    ""name"": ""unknown"",
+    ""job_title"": ""unknown"",
+    ""company"": ""unknown"",
+    ""attributes"": {
+        ""industry"": ""healthcare"",
+        ""experience_level"": ""mid-level (managers or decision-makers)"",
+        ""interests"": ""wound care, hospital management, product innovation"",
+        ""financial_motivations"": ""cost-saving, infection risk reduction, patient care"",
+        ""business_opportunities"": ""product supply, partnership, or collaboration opportunities""
+    }
+}"
+753,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_info"": {
+      ""interested_in_money_making_programs"": true
+    },
+    ""inferred_targeting_signals"": {
+      ""financial_motivations"": ""seeking_unlimited_cash"",
+      ""interested_in_business_opportunities"": true
+    }
+  }
+}"
+818,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [""online shopping"", ""fashion""],
+    ""financial motivations"": [""discounts"", ""promotions""],
+    ""business opportunities"": [""e-commerce"", ""retail""],
+    ""health concerns"": [""none""],
+    ""industry"": [""retail"", ""fashion""],
+    ""experience level"": ""general public""
+  }
+}"
+730,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""interested_in_easy_work"": true,
+      ""financial_motivation"": ""earn_hundreds_of_dollars_weekly"",
+      ""industry"": ""home_product_assembly""
+    },
+    ""inferred"": {
+      ""age"": ""adult"",
+      ""income_level"": ""lower_to_middle"",
+      ""educational_background"": ""high_school_or_equivalent"",
+      ""experience_level"": ""little_to_no_experience""
+    },
+    ""financial"": {
+      ""financial_status"": ""working_class"",
+      ""financial_goals"": ""supplement_income""
+    },
+    ""interests"": {
+      ""flexible_hours"": true,
+      ""entrepreneurial_spirit"": true
+    }
+  }
+}"
+1023,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""language_interests"": [""German"", ""English"", ""French"", ""Italian""]
+    },
+    ""inferred"": {
+      ""language_proficiency"": [""native speaker"", ""proficient in multiple languages""],
+      ""interests"": [""linguistics"", ""language games"", ""puzzles""],
+      ""financial_motivations"": [""entertainment"", ""hobby""],
+      ""industry"": [""education"", ""research""],
+      ""experience_level"": [""layperson"", ""enthusiast""]
+    }
+  }
+}"
+968,"{
+  ""name"": ""Rachel A. Lavin"",
+  ""job_title"": ""College Undergraduate"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [""linguistic anthropology"", ""research project""],
+    ""financial_motivations"": ""summer opportunities for a college undergraduate"",
+    ""education_level"": ""Undergraduate"",
+    ""industry"": ""Social Sciences/Academia""
+  }
+}"
+1068,"{
+  ""name"": ""Lee Forester"",
+  ""job_title"": ""unknown"",
+  ""company"": ""Smaug CS Hope"",
+  ""attributes"": {
+    ""explicit"": {
+      ""interests"": [""linguistic font sets"", ""macintosh""],
+      ""specific_character_requirements"": [""germanic characters""]
+    },
+    ""inferred"": {
+      ""industry"": [""education"", ""computer science""],
+      ""experience_level"": [""student"", ""professional""],
+      ""financial_motivations"": [""personal use"", ""academic purposes""],
+      ""business_opportunities"": [""none explicitly mentioned""],
+      ""health_concerns"": [""none explicitly mentioned""]
+    }
+  }
+}"
+1026,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""Professor of Linguistics"",
+  ""company"": ""University of California, San Diego"",
+  ""attributes"": {
+    ""interests"": [""Formal Semantics"", ""Syntax Interface""],
+    ""financial_motivations"": [""Salary commensurate with rank and experience""],
+    ""business_opportunities"": [""Tenured/Tenure-track position""],
+    ""industry"": [""Academia""],
+    ""experience_level"": [""Established researcher with proven record""]
+  }
+}"
+1014,"{
+  ""name"": ""Massimo"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [""linguistics"", ""language comparison"", ""quantitative information""],
+    ""financial_motivations"": ""unknown"",
+    ""business_opportunities"": ""unknown"",
+    ""health_concerns"": ""unknown"",
+    ""industry"": ""academia/research"",
+    ""experience_level"": ""unknown""
+  }
+}"
+1091,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""interested_in_conference"": true,
+      ""industry"": ""education""
+    },
+    ""inferred"": {
+      ""experience_level"": ""unknown"",
+      ""financial_motivations"": ""unknown"",
+      ""health_concerns"": ""unknown"",
+      ""interests"": ""academic or professional development"",
+      ""business_opportunities"": ""unknown""
+    }
+  }
+}"
+1032,"{
+    ""name"": ""unknown"",
+    ""job_title"": ""unknown"",
+    ""company"": ""unknown"",
+    ""attributes"": {
+        ""interests"": {
+            ""explicit"": [""historical linguistics"", ""language contact"", ""medieval languages""],
+            ""inferred"": [""linguistics"", ""language studies"", ""academia""]
+        },
+        ""financial motivations"": ""unknown"",
+        ""business opportunities"": ""unknown"",
+        ""health concerns"": ""unknown"",
+        ""industry"": ""academia"",
+        ""experience level"": ""expert""
+    }
+}"
+1060,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""graduate student or recent PhD/MAS in linguistics"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""interests"": ""linguistics, computational linguistics, japanese language and culture"",
+      ""financial motivations"": ""negotiable consultant fees"",
+      ""business opportunities"": ""text-analysis module development for japanese text-to-speech synthesizer"",
+      ""experience level"": ""graduate student or recent PhD/MAS""
+    },
+    ""inferred"": {
+      ""industry"": ""technology, software development, artificial intelligence"",
+      ""location"": ""murray hill, nj, usa"",
+      ""education level"": ""masters or doctoral degree in linguistics""
+    }
+  }
+}"
+962,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""BBC Producer"",
+  ""company"": ""BBC Wales"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""name"": ""unknown"",
+      ""job_title"": ""BBC Producer"",
+      ""company"": ""BBC Wales""
+    },
+    ""inferred_targeting_signals"": {
+      ""industry"": ""media"",
+      ""experience_level"": ""professional"",
+      ""interests"": ""Welsh language and culture, media production"",
+      ""financial_motivations"": ""unknown"",
+      ""business_opportunities"": ""programme discussing the internet and Welsh culture"",
+      ""health_concerns"": ""unknown""
+    }
+  }
+}"
+986,"{
+  ""name"": ""Paul Kerswill"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""industry"": ""Linguistics"",
+    ""interests"": ""dialects, language convergence, European studies"",
+    ""explicit"": {
+      ""name"": ""Paul Kerswill""
+    },
+    ""inferred"": {
+      ""experience level"": ""academic"",
+      ""title"": ""Professor""  # inferred based on the context of the email
+    }
+  }
+}"
+969,"{
+  ""name"": ""Ruizhong Wang"",
+  ""job_title"": ""Student"",
+  ""company"": ""Northern Arizona University"",
+  ""attributes"": {
+    ""interests"": [""applied linguistics"", ""Chinese analysis""],
+    ""financial_motivations"": ""unknown"",
+    ""business_opportunities"": ""unknown"",
+    ""health_concerns"": ""unknown"",
+    ""industry"": ""Education"",
+    ""experience_level"": ""Student or Researcher"",
+    ""inferred_targeting_signals"": [""researcher"", ""academic""]
+  }
+}"
+1082,"{
+  ""name"": ""Christian Kissing"",
+  ""job_title"": ""Professor/Linguist"",
+  ""company"": ""University of Düsseldorf"",
+  ""attributes"": {
+    ""interests"": [""linguistics"", ""psycholinguistics"", ""Japanese morphology""],
+    ""financial_motivations"": [""access to reliable and recent information on word frequencies""],
+    ""business_opportunities"": [""machine-readable corpora of Japanese texts""],
+    ""health_concerns"": [""unknown""],
+    ""industry"": [""education"", ""research""],
+    ""experience_level"": [""expert""]
+  }
+}"
+1077,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_info"": {
+      ""industry"": ""computer graphics""
+    },
+    ""inferred_targeting_signals"": {
+      ""financial_motivations"": ""likely seeking cost-effective solutions"",
+      ""business_opportunities"": ""interested in software solutions"",
+      ""interests"": ""translation, office automation""
+    }
+  }
+}"
+976,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""industry"": ""education"",
+      ""field"": ""linguistics"",
+      ""position"": ""researcher""
+    },
+    ""inferred"": {
+      ""interests"": [""language acquisition"", ""second language acquisition""],
+      ""financial motivations"": [""funding opportunities""],
+      ""business opportunities"": [""academic collaborations""],
+      ""health concerns"": [""none""],
+      ""experience level"": ""expert""
+    }
+  }
+}"
+1078,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""interests"": ""linguistics, language history, spoken language"",
+      ""experience_level"": ""researcher, academic""
+    },
+    ""inferred"": {
+      ""industry"": ""education, research, humanities"",
+      ""financial_motivations"": ""funding, grants, research opportunities"",
+      ""business_opportunities"": ""collaborations, partnerships, knowledge sharing""
+    }
+  }
+}"
+1081,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""industry"": ""cultural development"",
+      ""organization"": ""Centre national d'art et de culture Georges-Pompidou""
+    },
+    ""inferred"": {
+      ""interests"": [""multidisciplinary periodicals"", ""cultural development""],
+      ""experience_level"": ""professional""
+    }
+  }
+}"
+1095,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""University of Victoria"",
+  ""attributes"": {
+    ""explicit_info"": {
+      ""name"": ""unknown"", 
+      ""job_title"": ""unknown"", 
+      ""company"": ""University of Victoria""
+    },
+    ""inferred_targeting_signals"": {
+      ""interests"": ""academia"", 
+      ""financial_motivations"": ""unknown"", 
+      ""business_opportunities"": ""unknown"", 
+      ""health_concerns"": ""unknown"", 
+      ""industry"": ""education"", 
+      ""experience_level"": ""academic"", 
+      ""targeting_signals"": ""academia, language, literature""
+    }
+  }
+}"
+1058,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""industry"": ""education"",
+      ""interests"": ""linguistics, language, women's studies""
+    },
+    ""inferred"": {
+      ""financial_motivations"": ""likely interested in academic or professional development"",
+      ""business_opportunities"": ""unlikely"",
+      ""health_concerns"": ""unlikely"",
+      ""experience_level"": ""academic or professional, possibly at the university level""
+    }
+  }
+}"
+1093,"{
+  ""name"": ""John Wheat"",
+  ""job_title"": ""unknown"",
+  ""company"": ""University of Aveiro"",
+  ""attributes"": {
+    ""interests"": {
+      ""literary texts"": true,
+      ""corpus stylistics"": true
+    },
+    ""financial motivations"": {
+      ""academic research"": true
+    },
+    ""industry"": {
+      ""academia"": true
+    },
+    ""experience level"": {
+      ""academic"": true
+    }
+  }
+}"
+995,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""interests"": ""natural language processing, corpus-based approaches to NLP"",
+      ""financial_motivations"": ""publication of research papers"",
+      ""business_opportunities"": ""collaboration with researchers in the field"",
+      ""health_concerns"": ""none explicitly stated"",
+      ""industry"": ""computer science, linguistics""
+    },
+    ""inferred"": {
+      ""interests"": ""research in NLP, participation in conferences"",
+      ""financial_motivations"": ""grant funding, research grants"",
+      ""business_opportunities"": ""consulting, industry partnerships"",
+      ""health_concerns"": ""none explicitly stated"",
+      ""industry"": ""computer science, linguistics"",
+      ""experience_level"": ""expert, researcher""
+    }
+  }
+}"
+1133,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_info"": {
+      ""Microsoft_account_status"": ""locked"",
+      ""Microsoft_account_activity"": ""unusual""
+    },
+    ""inferred_targeting_signals"": {
+      ""concerns_about_account_security"": true,
+      ""likely_to_click_on_malicious_links"": true,
+      ""influenced_by_emotional_language"": true
+    },
+    ""inferred_characteristics"": {
+      ""experience_level"": ""unknown"",
+      ""industry"": ""unknown"",
+      ""financial_motivations"": ""unknown"",
+      ""business_opportunities"": ""unknown"",
+      ""health_concerns"": ""unknown"",
+      ""interests"": ""unknown""
+    }
+  }
+}"
+45,"{
+  ""name"": ""jose"",
+  ""job_title"": ""unknown"",
+  ""company"": ""monkey.org"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""email_address"": ""jose@monkey.org""
+    },
+    ""inferred_targeting_signals"": {
+      ""concerned_about_data_security"": true,
+      ""likely_to_have_account_on_monkey_org"": true,
+      ""potential_victim_of_phishing"": true
+    }
+  }
+}"
+44,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""industry"": ""unknown"",
+      ""experience_level"": ""unknown""
+    },
+    ""inferred"": {
+      ""interests"": [""business opportunities""],
+      ""financial_motivations"": [""financial gain from product inquiries""],
+      ""business_opportunities"": [""existing business with Alibaba""],
+      ""health_concerns"": ""none"",
+      ""industry"": ""e-commerce"",
+      ""experience_level"": ""potential buyer""
+    }
+  }
+}"
+22,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_info"": {
+      ""email"": ""jose@monkey.org""
+    },
+    ""inferred_targeting_signals"": {
+      ""likely_domain"": ""monkey.org"",
+      ""likely_interests"": [""email_service"", ""account_activation""],
+      ""likely_concerns"": [""account_restrictions"", ""email_deletion""]
+    }
+  }
+}"
+10,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""industry"": ""business"",
+    ""interests"": ""document sharing, collaboration"",
+    ""financial motivations"": ""unknown"",
+    ""business opportunities"": ""unknown"",
+    ""health concerns"": ""unknown"",
+    ""experience level"": ""unknown""
+  }
+}"
+0,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""email_provider"": ""Outlook""
+    },
+    ""inferred_targeting_signals"": {
+      ""working_environment"": ""office"",
+      ""technology_proficiency"": ""intermediate"",
+      ""concerned_about_email_accessibility"": ""true""
+    }
+  }
+}"
+18,"{
+  ""name"": ""Ayoub"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""interests"": [""news"", ""marketing preferences""],
+      ""financial_motivations"": [""payment details""],
+      ""business_opportunities"": [""Uber account""],
+      ""health_concerns"": [""unknown""],
+      ""industry"": [""unknown""],
+      ""experience_level"": [""unknown""]
+    },
+    ""inferred"": {
+      ""interests"": [""news"", ""current events""],
+      ""financial_motivations"": [""monetary benefits""],
+      ""business_opportunities"": [""e-commerce"", ""online services""],
+      ""health_concerns"": [""unknown""],
+      ""industry"": [""tech"", ""digital services""],
+      ""experience_level"": [""general public""]
+    }
+  }
+}"
+30,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""email_provider"": ""ac-noumea.nc""  // inferred from email address
+    },
+    ""inferred_targeting_signals"": {
+      ""likely_business_opportunity"": false,  // inferred from generic language
+      ""financial_motivation"": ""unknown"",  // no explicit information
+      ""industry"": ""office_messaging"",  // inferred from content
+      ""experience_level"": ""unknown"",  // no explicit information
+      ""interests"": ""unknown""  // no explicit information
+    }
+  }
+}"
+33,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""email_provider"": ""socialbenessere.it""
+    },
+    ""inferred_targeting_signals"": {
+      ""likely_target_audience"": ""personal_email_user"",
+      ""email_usage"": ""personal_email"",
+      ""concerns"": [""account_block"", ""account_security""]
+    }
+  }
+}"
+1140,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""financial motivations"": ""payment details update"",
+      ""industry"": ""entertainment (Netflix)""
+    },
+    ""inferred"": {
+      ""interests"": ""streaming movies/TV shows"",
+      ""experience level"": ""consumer"",
+      ""health concerns"": ""none"",
+      ""business opportunities"": ""potential subscription renewal""
+    }
+  }
+}"
+4,"{
+  ""name"": ""jose"",
+  ""job_title"": ""unknown"",
+  ""company"": ""monkey.org"",
+  ""attributes"": {
+    ""explicit"": {
+      ""email_domain"": ""monkey.org"",
+      ""explicitly_mentioned"": true
+    },
+    ""inferred"": {
+      ""industry"": ""unknown"",
+      ""experience_level"": ""unknown"",
+      ""interests"": ""likely interested in file sharing and access management"",
+      ""financial_motivations"": ""unknown"",
+      ""business_opportunities"": ""unknown"",
+      ""health_concerns"": ""unknown""
+    }
+  }
+}"
+1126,"{
+  ""name"": ""jose"",
+  ""job_title"": ""unknown"",
+  ""company"": ""monkey.org"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""email_provider"": ""monkey.org""
+    },
+    ""inferred_targeting_signals"": {
+      ""financial_motivations"": ""concerned about avoiding account lockout due to low storage space"",
+      ""interests"": ""email management and storage space"",
+      ""experience_level"": ""likely a personal or individual user, not a business or enterprise user""
+    }
+  }
+}"
+1127,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""email_service_provider"": ""monkey.org""
+    },
+    ""inferred"": {
+      ""email_user"": true,
+      ""security_concerned"": true,
+      ""action_oriented"": true
+    }
+  }
+}"
+31,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""email"": ""jose@monkey.org"",
+      ""communication_preferences"": ""News and Promotions""
+    },
+    ""inferred"": {
+      ""interests"": ""shopping, online payments"",
+      ""financial_motivations"": ""securing account access, managing finances"",
+      ""industry"": ""e-commerce, online services""
+    }
+  }
+}"
+1138,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""financial_status"": ""has_funds"",
+      ""has_beneficiary"": true
+    },
+    ""inferred"": {
+      ""industry"": ""financial_services"",
+      ""experience_level"": ""individual"",
+      ""interests"": ""financial_security"",
+      ""financial_motivations"": ""protecting_funds""
+    }
+  }
+}"
+26,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""financial_motivation"": ""account_activation"",
+      ""industry"": ""e-commerce"",
+      ""experience_level"": ""unknown""
+    },
+    ""inferred_targeting_signals"": {
+      ""interests"": ""online_shopping"",
+      ""health_concerns"": ""none"",
+      ""business_opportunities"": ""account_activation""
+    }
+  }
+}"
+42,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""industry"": ""shipping"",
+      ""company"": ""DHL""
+    },
+    ""inferred"": {
+      ""interests"": ""package delivery"",
+      ""financial motivations"": ""receiving a shipment"",
+      ""experience level"": ""consumer""
+    }
+  }
+}"
+15,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""industry"": ""banking"",
+      ""financial_motivations"": ""receiving online banking statements""
+    },
+    ""inferred"": {
+      ""experience_level"": ""individual"",
+      ""interests"": ""online banking, financial management""
+    }
+  }
+}"
+40,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""email"": ""jose@monkey.org""
+    },
+    ""inferred"": {
+      ""likely_target_audience"": ""individuals who have received or are expecting a parcel"",
+      ""interests"": ""receiving parcels, tracking shipments"",
+      ""financial_motivations"": ""concerns about delayed delivery and potential loss of package"",
+      ""business_opportunities"": ""none"",
+      ""health_concerns"": ""none"",
+      ""industry"": ""logistics, shipping"",
+      ""experience_level"": ""consumer""
+    }
+  }
+}"
+1146,"{
+  ""name"": ""jose"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""email"": ""jose@monkey.org""
+    },
+    ""inferred_targeting_signals"": {
+      ""likely_interests"": ""files, downloads, or work-related documents"",
+      ""financial_motivations"": ""unknown"",
+      ""business_opportunities"": ""unknown"",
+      ""health_concerns"": ""unknown"",
+      ""industry"": ""unknown"",
+      ""experience_level"": ""unknown""
+    }
+  }
+}"
+920,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""location"": ""United Kingdom (targeted by a Spanish company)""
+    },
+    ""inferred"": {
+      ""interests"": ""tobacco products, cost savings"",
+      ""financial motivations"": ""looking for affordable tobacco options"",
+      ""industry"": ""healthcare, consumer goods"",
+      ""experience level"": ""general public, potential smokers""
+    }
+  }
+}"
+895,"{
+    ""name"": ""unknown"",
+    ""job_title"": ""unknown"",
+    ""company"": ""unknown"",
+    ""attributes"": {
+        ""explicit"": {
+            ""financial_motivation"": ""Home Loans and Financial Services""
+        },
+        ""inferred"": {
+            ""interests"": ""Home ownership, debt consolidation, refinancing"",
+            ""financial_motivation"": ""Improving credit rating or consolidating debt"",
+            ""industry"": ""Home ownership, finance""
+        }
+    }
+}"
+894,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""interests"": ""discounted products"",
+      ""financial_motivations"": ""saving money on cigarettes and tobacco""
+    },
+    ""inferred_targeting_signals"": {
+      ""industry"": ""smoking or related products"",
+      ""experience_level"": ""unknown"",
+      ""health_concerns"": ""potential health concerns related to smoking""
+    }
+  }
+}"
+872,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""industry"": ""technology or business"",
+    ""experience_level"": ""unknown"",
+    ""interests"": ""entering Chinese market, consulting services, business opportunities"",
+    ""financial_motivations"": ""opening Chinese market"",
+    ""business_opportunities"": ""importing or exporting goods to/from China"",
+    ""health_concerns"": ""none inferred"",
+    ""explicit_info"": {
+      ""company"": ""China Enterprise Management Co., Ltd. (CMC)""
+    },
+    ""inferred_targeting_signals"": {
+      ""country"": ""China""
+    }
+  }
+}"
+868,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""financial_motivations"": {
+        ""free_membership"": true
+      }
+    },
+    ""inferred"": {
+      ""interests"": [
+        ""marketing"",
+        ""advertising"",
+        ""business opportunities""
+      ],
+      ""industry"": ""general"",
+      ""experience_level"": ""unknown""
+    }
+  }
+}"
+854,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""interests"": ""home ownership and finance"",
+      ""financial_motivations"": ""saving money on mortgage rates""
+    },
+    ""inferred"": {
+      ""industry"": ""real estate or finance"",
+      ""experience_level"": "" homeowner or potential homebuyer"",
+      ""health_concerns"": ""none"",
+      ""business_opportunities"": ""none""
+    }
+  }
+}"
+926,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_info"": {
+      ""age"": ""21+""
+    },
+    ""inferred_targeting_signals"": {
+      ""financial_motivations"": ""risk capital and potential for huge profit"",
+      ""business_opportunities"": ""investment in Euro currency"",
+      ""interests"": ""currency, finance, and economic world"",
+      ""experience_level"": ""general public, likely interested in finance and economy""
+    }
+  }
+}"
+927,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""job_title"": ""unknown"",
+      ""company"": ""unknown""
+    },
+    ""inferred_targeting_signals"": {
+      ""industry"": ""media, news, or publishing"",
+      ""interests"": ""current events, news, and updates"",
+      ""financial_motivations"": ""likely motivated by the prospect of a free trial subscription"",
+      ""business_opportunities"": ""potential for the company to gain new subscribers"",
+      ""health_concerns"": ""none explicitly mentioned"",
+      ""experience_level"": ""unknown""
+    }
+  }
+}"
+881,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [""car ownership"", ""financial security""],
+    ""financial_motivations"": [""protecting investment"", ""saving money""],
+    ""business_opportunities"": [""extended warranty sales""],
+    ""health_concerns"": [""unknown""],
+    ""industry"": [""automotive""],
+    ""experience_level"": [""general public"", ""car owners""]
+  }
+}"
+905,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [""smoking"", ""tobacco""],
+    ""financial_motivations"": [""cost savings"", ""affordability""],
+    ""inferred_targeting_signals"": [""irish nationality"", ""tobacco consumers""],
+    ""industry"": ""unknown"",
+    ""experience_level"": ""unknown"",
+    ""location"": ""ireland""
+  }
+}"
+876,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_info"": {
+      ""location"": ""U.S.A.""
+    },
+    ""inferred_targeting_signals"": {
+      ""financial_motivations"": ""in_debt_or_needing_extra_cash"",
+      ""interests"": ""homeownership"",
+      ""credit_status"": ""bad_credit""
+    }
+  }
+}"
+919,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [
+      ""starting a business"",
+      ""funding education (college)"",
+      ""financial freedom""
+    ],
+    ""financial_motivations"": ""avoiding debt"",
+    ""inferred_targeting_signals"": [
+      ""permission to receive third-party online promotions"",
+      ""targeting individuals with financial goals""
+    ],
+    ""industry"": ""small business or education"",
+    ""experience_level"": ""unknown""
+  }
+}"
+890,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""financial_motivations"": {
+        ""protect_financial_wellbeing"": true
+      }
+    },
+    ""inferred"": {
+      ""financial_motivations"": {
+        ""save_money"": true,
+        ""avoid_expenses"": true
+      },
+      ""interests"": {
+        ""cars"": true,
+        ""warranties"": true
+      },
+      ""experience_level"": {
+        ""car_ownership"": true
+      },
+      ""industry"": {
+        ""automotive"": true
+      }
+    }
+  }
+}"
+946,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""email_domain"": ""rocketsoftware.com""
+    },
+    ""inferred_targeting_signals"": {
+      ""interests"": [""printing"", ""office supplies""],
+      ""industry"": [""IT"", ""software""],
+      ""financial_motivations"": [""cost savings""],
+      ""business_opportunities"": [""office equipment""],
+      ""experience_level"": ""unknown""
+    }
+  }
+}"
+935,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""email_address"": ""Imagemac80@jippii.fi""
+    },
+    ""inferred_targeting_signals"": {
+      ""financial_motivations"": [""wanting to obtain loans for cars, boats, and houses""],
+      ""interests"": [""credit repair"", ""perfect credit""],
+      ""industry"": [""home ownership"", ""vehicle ownership""],
+      ""experience_level"": [""general public"", ""unsure""],
+      ""health_concerns"": [""none""],
+      ""business_opportunities"": [""none""]
+    }
+  }
+}"
+878,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""financial_motivations"": ""highly motivated for making money"",
+      ""experience_level"": ""no specific experience mentioned""
+    },
+    ""inferred_targeting_signals"": {
+      ""interests"": ""making money, business opportunities, personal finance"",
+      ""industry"": ""sales, marketing, or business development"",
+      ""personality_traits"": ""genuine, money motivated, and qualified""
+    }
+  }
+}"
+916,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""interested_in_job_search"": true,
+      ""looking_for_job_leads"": true,
+      ""seeking_resumes_resources"": true
+    },
+    ""inferred_targeting_signals"": {
+      ""financial_motivation"": ""employment"",
+      ""business_opportunities"": ""job_search"",
+      ""experience_level"": ""entry_level"",
+      ""industry"": ""general_professional"",
+      ""interests"": [""career_development"", ""job_search_resources""]
+    }
+  }
+}"
+915,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_info"": {
+      ""previous_interest_in_discounted_products"": true
+    },
+    ""inferred_targeting_signals"": {
+      ""likely_interests"": [""smoking"", ""cigarettes"", ""tobacco""],
+      ""financial_motivations"": [""saving money on cigarettes and tobacco""],
+      ""business_opportunities"": [""none explicitly mentioned""],
+      ""health_concerns"": [""none explicitly mentioned""],
+      ""industry"": [""none explicitly mentioned""],
+      ""experience_level"": ""unknown""
+    }
+  }
+}"
+884,"{
+    ""name"": ""unknown"",
+    ""job_title"": ""unknown"",
+    ""company"": ""unknown"",
+    ""attributes"": {
+        ""explicit_information"": {
+            ""interests"": [""art"", ""affiliation"", ""marketing""],
+            ""financial_motivations"": [""revenue share"", ""commissions""],
+            ""business_opportunities"": [""enhance website content"", ""provide valuable information to customers""],
+            ""industry"": ""art market information""
+        },
+        ""inferred_targeting_signals"": {
+            ""experience_level"": ""potential affiliate marketer"",
+            ""language"": ""english and french"",
+            ""location"": ""possibly France or Europe""
+        }
+    }
+}"
+877,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""age"": ""over 18""
+    },
+    ""inferred"": {
+      ""financial_motivations"": ""risk capital"",
+      ""interests"": ""currency trading, investing, financial news"",
+      ""industry"": ""business, finance"",
+      ""experience_level"": ""beginner to intermediate"",
+      ""health_concerns"": ""none"",
+      ""business_opportunities"": ""currency trading, commodities""
+    }
+  }
+}"
+1223,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""email_domain"": ""linux.ie""
+    },
+    ""inferred"": {
+      ""interests"": [""Linux"", ""IT""],
+      ""industry"": [""Technology""],
+      ""experience_level"": ""technical"",
+      ""community_affiliation"": [""Irish Linux Users' Group""]
+    }
+  }
+}"
+1268,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""interests"": [""VPN"", ""IPsec"", ""CIPE""],
+      ""industry"": [""Linux"", ""IT""],
+      ""experience_level"": [""technical""]
+    },
+    ""inferred"": {
+      ""financial_motivations"": [""cost-benefit analysis""],
+      ""business_opportunities"": [""considering Linux as a solution for multiple sites""],
+      ""health_concerns"": [""none apparent""]
+    }
+  }
+}"
+1228,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""email_domain"": ""linux.ie""
+    },
+    ""inferred"": {
+      ""interests"": [""linux"", ""debian"", ""ISDN"", ""Cisco"", ""ppp""],
+      ""industry"": [""technology"", ""networking""],
+      ""experience_level"": [""technical""],
+      ""financial_motivations"": [""solving a technical issue""],
+      ""health_concerns"": [""none""],
+      ""business_opportunities"": [""none""]
+    }
+  }
+}"
+1226,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [""Linux"", ""gaming""],
+    ""industry"": ""IT/technology"",
+    ""experience_level"": ""intermediate/advanced"",
+    ""technical_skills"": [""Linux"", ""Quake 3""],
+    ""community_affiliation"": [""Irish Linux Users' Group (ILUG)""]
+  }
+}"
+1181,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""interests"": ""spam filtering and email management"",
+      ""financial_motivations"": ""unknown"",
+      ""business_opportunities"": ""unknown"",
+      ""health_concerns"": ""unknown"",
+      ""industry"": ""unknown"",
+      ""experience_level"": ""technical or developer""
+    },
+    ""inferred"": {
+      ""industry"": ""IT or software development"",
+      ""experience_level"": ""advanced or expert"",
+      ""interests"": ""email management, spam filtering, and software development"",
+      ""financial_motivations"": ""cost savings or efficiency gains related to email management"",
+      ""business_opportunities"": ""integrating spam filtering solutions into existing systems"",
+      ""health_concerns"": ""unknown""
+    }
+  }
+}"
+1214,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""industry"": ""IT"",
+      ""operating_system"": ""Linux"",
+      ""email_provider"": ""yahoo""
+    },
+    ""inferred"": {
+      ""experience_level"": ""intermediate"",
+      ""interests"": ""Linux, open-source software, productivity tools"",
+      ""financial_motivations"": ""personal use, not explicitly stated"",
+      ""business_opportunities"": ""none inferred"",
+      ""health_concerns"": ""none inferred""
+    }
+  }
+}"
+1291,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""email_domain"": ""example.sourceforge.net""
+    },
+    ""inferred_targeting_signals"": {
+      ""likely_interests"": [
+        ""Razor-users mailing list"",
+        ""spam reporting"",
+        ""email security""
+      ],
+      ""industry"": ""technology"",
+      ""experience_level"": ""technical""
+    }
+  }
+}"
+1218,"{
+  ""name"": ""Dave"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""name"": ""Dave"",
+      ""email"": ""bolsh@gimp.org""
+    },
+    ""inferred"": {
+      ""interests"": [""Linux"", ""email management""],
+      ""industry"": ""Technology"",
+      ""experience_level"": ""unknown""
+    }
+  }
+}"
+1232,"{
+  ""name"": ""Chris Kurtz"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [""email filtering"", ""spam detection"", ""Perl programming""],
+    ""financial motivations"": ""unknown"",
+    ""business opportunities"": ""unknown"",
+    ""health concerns"": ""unknown"",
+    ""industry"": ""IT/Software"",
+    ""experience level"": ""expert""
+  }
+}"
+1260,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [""email filtering"", ""spam detection""],
+    ""financial_motivations"": [""reducing false positives"", ""saving money on advertising""],
+    ""business_opportunities"": [""advertising on Yahoo and SN and Juno""],
+    ""industry"": [""technology"", ""software development""],
+    ""experience_level"": [""expert"", ""developer""],
+    ""explicit_info"": {
+      ""email_list"": [""Spamassassin-devel@lists.sourceforge.net""]
+    },
+    ""inferred_targeting_signals"": {
+      ""interest_in_technology"": true,
+      ""potential_advertiser"": true
+    }
+  }
+}"
+1162,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""industry"": ""IT/Software"",
+    ""experience_level"": ""technical/expert"",
+    ""interests"": ""email filtering/spam detection"",
+    ""financial_motivations"": ""unknown"",
+    ""business_opportunities"": ""unknown"",
+    ""health_concerns"": ""unknown""
+  }
+}"
+1186,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [""hacking"", ""reverse engineering"", ""CD technology""],
+    ""financial_motivations"": ""unknown"",
+    ""business_opportunities"": ""unknown"",
+    ""health_concerns"": ""unknown"",
+    ""industry"": ""unknown"",
+    ""experience_level"": ""unknown"",
+    ""inferred_targeting_signals"": {
+      ""technical_expertise"": ""high"",
+      ""geeky_interests"": ""high""
+    }
+  }
+}"
+1169,"{
+  ""name"": ""J C Lawrence"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [""computing"", ""email management"", ""spam controls""],
+    ""financial_motivations"": ""unknown"",
+    ""business_opportunities"": ""unknown"",
+    ""health_concerns"": ""unknown"",
+    ""industry"": ""unknown"",
+    ""experience_level"": ""unknown"",
+    ""inferred_characteristics"": {
+      ""email_client"": ""exmh"",
+      ""email_address_pattern"": ""plus addressing""
+    }
+  },
+  ""explicit_info"": {
+    ""email_address"": ""claw@kanga.nu""
+  },
+  ""inferred_targeting_signals"": {
+    ""email_client_usage"": [""mail delivery"", ""folder management""],
+    ""spam_controls"": [""using plus addressing"", ""subscribing to lists""]
+  }
+}"
+1206,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""email_domain"": ""lists.sourceforge.net""
+    },
+    ""inferred_targeting_signals"": {
+      ""technical_expertise"": ""high"",
+      ""industry"": ""IT/computing"",
+      ""interests"": ""spam filtering, email security"",
+      ""experience_level"": ""advanced""
+    }
+  }
+}"
+1219,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""industry"": ""IT"",
+      ""interests"": ""open source software, Linux""
+    },
+    ""inferred"": {
+      ""experience_level"": ""technical"",
+      ""financial_motivations"": ""cost savings"",
+      ""business_opportunities"": ""adoption of open source software in a business context""
+    }
+  }
+}"
+1205,"{
+    ""name"": ""unknown"",
+    ""job_title"": ""unknown"",
+    ""company"": ""unknown"",
+    ""attributes"": {
+        ""explicit_info"": {
+            ""lifestyle"": ""BDSM""
+        },
+        ""inferred_targeting_signals"": {
+            ""interests"": [""communication"", ""mail lists"", ""reminders"", ""file storage"", ""calendars""],
+            ""financial_motivations"": ""free or low-cost alternatives to Yahoo Groups"",
+            ""business_opportunities"": ""none explicitly stated"",
+            ""health_concerns"": ""none explicitly stated"",
+            ""industry"": ""online communities or social networks"",
+            ""experience_level"": ""likely tech-savvy individuals""
+        }
+    }
+}"
+1282,"{
+  ""name"": ""Raido Kurel"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit"": {
+      ""name"": ""Raido Kurel"",
+      ""email_domain"": ""elve.elin.ttu.ee""
+    },
+    ""inferred"": {
+      ""industry"": ""software development"",
+      ""experience_level"": ""professional"",
+      ""interests"": ""email filtering, spam prevention"",
+      ""financial_motivations"": ""unknown"",
+      ""business_opportunities"": ""unknown"",
+      ""health_concerns"": ""unknown""
+    }
+  }
+}"
+1179,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [
+      ""Linux"",
+      ""PentiumMMX"",
+      ""optimizing"",
+      ""compiling programs"",
+      ""kernel code"",
+      ""XFree86"",
+      ""DRI""
+    ],
+    ""financial motivations"": ""improving system performance"",
+    ""business opportunities"": ""none explicitly stated"",
+    ""health concerns"": ""none explicitly stated"",
+    ""industry"": ""IT/Software"",
+    ""experience level"": ""advanced/technical""
+  }
+}"
+1277,"{
+  ""name"": ""FoRK"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""interests"": [
+      ""online gaming"",
+      ""technology"",
+      ""South Korean culture""
+    ],
+    ""financial_motivations"": ""unknown"",
+    ""business_opportunities"": ""unknown"",
+    ""health_concerns"": [
+      ""Internet game addiction"",
+      ""mental health""
+    ],
+    ""industry"": ""unknown"",
+    ""experience_level"": ""unknown""
+  }
+}"
+1176,"{
+  ""name"": ""unknown"",
+  ""job_title"": ""unknown"",
+  ""company"": ""unknown"",
+  ""attributes"": {
+    ""explicit_information"": {
+      ""explicit_name"": ""Kiall Mac Innes is not the recipient, it is the sender.""
+    },
+    ""inferred_targeting_signals"": {
+      ""industry"": ""technology or electronics"",
+      ""interests"": ""linux, computer hardware, DIY projects"",
+      ""experience_level"": ""likely beginner or intermediate""
+    }
+  }
+}"
